@@ -6,8 +6,6 @@ const Home: NextPage = () => {
     <div>
       <Head>
         <title>Minha Página Next.js com TypeScript</title>
-        <meta name="description" content="Criando uma página Next.js com TypeScript" />
-        <link rel="icon" href="/favicon.ico" />
       </Head>
     </div>
   );
