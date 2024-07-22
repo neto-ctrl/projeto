@@ -5,6 +5,7 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
+        <title>Minha Página Next.js com TypeScript</title>
 
         <title>oi</title>
         
